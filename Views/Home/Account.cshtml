@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Личный кабинет — VideoStudio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="page-head">
+    <div class="container">
+        <h1>Личный кабинет</h1>
+        <p>Вход, история записей, уведомления и настройки профиля.</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div id="account"></div>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/account.js"></script>
+}

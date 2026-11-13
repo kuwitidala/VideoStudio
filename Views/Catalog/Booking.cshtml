@@ -1,0 +1,22 @@
+@model VideoStudio.Models.BookingFormViewModel
+@{
+    ViewData["Title"] = "Услуги";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="page-head">
+    <div class="container">
+        <h1>Запись на услугу</h1>
+        <p>Три шага: выберите услугу, удобное время и добавьте пожелания.</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        @await Html.PartialAsync("_BookingForm", Model)
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/booking.js"></script>
+}

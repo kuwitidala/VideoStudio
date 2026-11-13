@@ -1,0 +1,338 @@
+E:\практика2\VideoStudio\bin\Debug\net9.0\appsettings.Development.json
+E:\практика2\VideoStudio\bin\Debug\net9.0\appsettings.json
+E:\практика2\VideoStudio\bin\Debug\net9.0\dotnet-tools.json
+E:\практика2\VideoStudio\bin\Debug\net9.0\VideoStudio.staticwebassets.runtime.json
+E:\практика2\VideoStudio\bin\Debug\net9.0\VideoStudio.staticwebassets.endpoints.json
+E:\практика2\VideoStudio\bin\Debug\net9.0\VideoStudio.exe
+E:\практика2\VideoStudio\bin\Debug\net9.0\VideoStudio.deps.json
+E:\практика2\VideoStudio\bin\Debug\net9.0\VideoStudio.runtimeconfig.json
+E:\практика2\VideoStudio\bin\Debug\net9.0\VideoStudio.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\VideoStudio.pdb
+E:\практика2\VideoStudio\bin\Debug\net9.0\Humanizer.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\System.CodeDom.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\практика2\VideoStudio\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.csproj.AssemblyReference.cache
+E:\практика2\VideoStudio\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.AssemblyInfoInputs.cache
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.AssemblyInfo.cs
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.csproj.CoreCompileInputs.cache
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.MvcApplicationPartsAssemblyInfo.cs
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\практика2\VideoStudio\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\практика2\VideoStudio\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\практика2\VideoStudio\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\практика2\VideoStudio\obj\Debug\net9.0\scopedcss\bundle\VideoStudio.styles.css
+E:\практика2\VideoStudio\obj\Debug\net9.0\staticwebassets.build.json
+E:\практика2\VideoStudio\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\практика2\VideoStudio\obj\Debug\net9.0\staticwebassets.development.json
+E:\практика2\VideoStudio\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStu.893A7506.Up2Date
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.dll
+E:\практика2\VideoStudio\obj\Debug\net9.0\refint\VideoStudio.dll
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.pdb
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.genruntimeconfig.cache
+E:\практика2\VideoStudio\obj\Debug\net9.0\ref\VideoStudio.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\appsettings.Development.json
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\appsettings.json
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\dotnet-tools.json
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\VideoStudio.staticwebassets.runtime.json
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\VideoStudio.staticwebassets.endpoints.json
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\VideoStudio.exe
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\VideoStudio.deps.json
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\VideoStudio.runtimeconfig.json
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\VideoStudio.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\VideoStudio.pdb
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Humanizer.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\System.CodeDom.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\практика2\VideoStudio — копия\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.csproj.AssemblyReference.cache
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.AssemblyInfoInputs.cache
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.AssemblyInfo.cs
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.csproj.CoreCompileInputs.cache
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.MvcApplicationPartsAssemblyInfo.cs
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.MvcApplicationPartsAssemblyInfo.cache
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.RazorAssemblyInfo.cache
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.RazorAssemblyInfo.cs
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\scopedcss\bundle\VideoStudio.styles.css
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\compressed\6h3movl0fa-{0}-74i4w1qyte-74i4w1qyte.gz
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\compressed\5ij9icwatr-{0}-lhfow7w4zv-lhfow7w4zv.gz
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\compressed\u53uc8v18g-{0}-e7o6dhyrvo-e7o6dhyrvo.gz
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\compressed\1wurdnhduq-{0}-6bcr03p364-6bcr03p364.gz
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\compressed\lhs4oplxdk-{0}-sxit00gvdn-sxit00gvdn.gz
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\compressed\9tevml5p61-{0}-97h2txuez1-97h2txuez1.gz
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\compressed\hdpx7ca6rs-{0}-3kz561gigf-3kz561gigf.gz
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\staticwebassets.build.json
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\staticwebassets.development.json
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\swae.build.ex.cache
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStu.893A7506.Up2Date
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.dll
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\refint\VideoStudio.dll
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.pdb
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\VideoStudio.genruntimeconfig.cache
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\ref\VideoStudio.dll
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\compressed\9dq5cw1w60-{0}-18qanakwvp-18qanakwvp.gz
+E:\практика2\VideoStudio — копия\obj\Debug\net9.0\compressed\q9kmjcdcdh-{0}-oyeg20k1ra-oyeg20k1ra.gz
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.RazorAssemblyInfo.cache
+E:\практика2\VideoStudio\obj\Debug\net9.0\VideoStudio.RazorAssemblyInfo.cs
+E:\практика2\VideoStudio\bin\Debug\net9.0\global.json
+E:\практика2\VideoStudio\obj\Debug\net9.0\compressed\zvfeim13ry-74i4w1qyte.gz
+E:\практика2\VideoStudio\obj\Debug\net9.0\compressed\uir1gcud2j-w8z9131uww.gz
+E:\практика2\VideoStudio\obj\Debug\net9.0\compressed\m7bl7ktca5-2kihbsrmfr.gz
+E:\практика2\VideoStudio\obj\Debug\net9.0\compressed\v6plyuelxc-cy5zy7i67g.gz
+E:\практика2\VideoStudio\obj\Debug\net9.0\compressed\11iszykasg-eim1kqpbef.gz
+E:\практика2\VideoStudio\obj\Debug\net9.0\compressed\b1w0c6oji4-n1lk7w3a7h.gz
+E:\практика2\VideoStudio\obj\Debug\net9.0\compressed\p5nwdvqmqt-cfjswxlkxi.gz
+E:\практика2\VideoStudio\obj\Debug\net9.0\compressed\3ekxqqxdcr-1omoplexgu.gz
+E:\практика2\VideoStudio\obj\Debug\net9.0\compressed\d9mq36lbbs-iu3jjmo32a.gz

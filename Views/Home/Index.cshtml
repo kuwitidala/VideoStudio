@@ -1,0 +1,109 @@
+@model VideoStudio.Models.HomeViewModel
+@{
+    ViewData["Title"] = "Услуги видеосъёмки — VideoStudio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="hero" aria-label="Главный баннер">
+    <div class="container hero-inner">
+        <div class="hero-text" id="hero-text" aria-live="polite"></div>
+
+        <div class="viewfinder scene-1" id="hero-frame" aria-hidden="true">
+            <video class="vf-video" src="~/video/video1.mp4" autoplay muted loop playsinline></video>
+            <span class="vf-corner vf-tl"></span>
+            <span class="vf-corner vf-tr"></span>
+            <span class="vf-corner vf-bl"></span>
+            <span class="vf-corner vf-br"></span>
+            <span class="vf-rec"><i></i>REC</span>
+            <span class="vf-time" id="hero-time">00:00:00</span>
+            <span class="vf-caption" id="hero-caption"></span>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="hero-nav" id="hero-nav"></div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container split">
+        <div>
+            <h2>Видео, которое рассказывает вашу историю</h2>
+            <p>VideoStudio — команда операторов и монтажёров. Мы снимаем свадьбы, рекламные ролики и мероприятия: от идеи и сценария до готового фильма.</p>
+            <p>Работаем в 4K, берём на себя звук, свет и монтаж, а сроки и стоимость фиксируем в договоре.</p>
+            <a class="btn btn-line" asp-controller="Home" asp-action="About">Подробнее о компании</a>
+        </div>
+        <ul class="facts">
+            <li><strong>Опыт</strong><span>Снимаем профессионально более 8 лет</span></li>
+            <li><strong>Команда</strong><span>Операторы, звукорежиссёр и монтажёры в одной студии</span></li>
+            <li><strong>Подход</strong><span>Обсуждаем задачу до съёмки и согласуем результат до выдачи</span></li>
+        </ul>
+    </div>
+</section>
+
+<section class="section section-alt">
+    <div class="container">
+        <div class="section-head">
+            <h2>Услуги</h2>
+            <a class="btn btn-line" asp-controller="Catalog" asp-action="Services">Все услуги</a>
+        </div>
+        <div class="service-list">
+            @await Html.PartialAsync("_ServiceList", Model.Services)
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="section-head">
+            <h2>Наши работы</h2>
+            <a class="btn btn-line" asp-controller="Catalog" asp-action="Portfolio">Всё портфолио</a>
+        </div>
+        <div class="works">
+            @await Html.PartialAsync("_WorkList", Model.Works)
+        </div>
+    </div>
+</section>
+
+<section class="section section-alt">
+    <div class="container">
+        <div class="section-head">
+            <h2>Отзывы клиентов</h2>
+            <a class="btn btn-line" asp-controller="Catalog" asp-action="Reviews">Все отзывы</a>
+        </div>
+        <div class="reviews">
+            @await Html.PartialAsync("_ReviewList", Model.Reviews)
+        </div>
+    </div>
+</section>
+
+<section class="section" id="booking">
+    <div class="container">
+        <h2>Запись на услугу</h2>
+        <p>Выберите услугу и свободное время. Мы подтвердим запись в личном кабинете.</p>
+        @await Html.PartialAsync("_BookingForm", Model.Booking)
+    </div>
+</section>
+
+<section class="section section-alt" id="contacts">
+    <div class="container split">
+        <div>
+            <h2>Контакты</h2>
+
+            <ul class="contact-list">
+                <li><b>Адрес</b>г. Москва, ул. Примерная, д. 10, офис 5</li>
+                <li><b>Телефон</b><a href="tel:+79000000000">+7 (900) 000-00-00</a></li>
+                <li><b>Почта</b><a href="mailto:hello@videostudio.local">hello@videostudio.local</a></li>
+                <li><b>Режим работы</b>Пн–Пт, 10:00–19:00</li>
+            </ul>
+
+            <a class="btn btn-line" asp-controller="Home" asp-action="Contacts">Написать нам</a>
+        </div>
+        <iframe class="map" title="Карта проезда" loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=37.57%2C55.74%2C37.67%2C55.77&amp;layer=mapnik&amp;marker=55.755%2C37.62"></iframe>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/home.js"></script>
+    <script src="~/js/works.js"></script>
+    <script src="~/js/booking.js"></script>
+}

@@ -1,0 +1,67 @@
+
+@{
+    var currentAction = ViewContext.RouteData.Values["action"]?.ToString();
+}
+
+<header class="header">
+    <div class="container header-inner">
+
+        <a class="logo" asp-controller="Home" asp-action="Index">
+            <svg class="logo-mark" viewBox="0 0 34 34" aria-hidden="true">
+                <rect width="34" height="34" rx="9" fill="#2b3bff" />
+                <path d="M13 9.5v15l12-7.5z" fill="#fff" />
+            </svg>
+            VideoStudio
+        </a>
+
+        <button class="burger" aria-label="Открыть меню" aria-expanded="false">
+            <span></span><span></span><span></span>
+        </button>
+
+        <nav class="nav" aria-label="Основное меню">
+
+            <a asp-controller="Home" asp-action="About"
+               class="@(currentAction == "About" ? "active" : null)">
+                О компании
+            </a>
+
+            <a asp-controller="Catalog" asp-action="Services"
+               class="@(currentAction == "Services" ? "active" : null)">
+                Услуги
+            </a>
+
+            <a asp-controller="Catalog" asp-action="Portfolio"
+               class="@(currentAction == "Portfolio" ? "active" : null)">
+                Портфолио
+            </a>
+
+            <a asp-controller="Catalog" asp-action="Booking"
+               class="@(currentAction == "Booking" ? "active" : null)">
+                Запись на услугу
+            </a>
+
+            <a asp-controller="Catalog" asp-action="Reviews"
+               class="@(currentAction == "Reviews" ? "active" : null)">
+                Отзывы
+            </a>
+
+            <a asp-controller="Home" asp-action="Contacts"
+               class="@(currentAction == "Contacts" ? "active" : null)">
+                Контакты
+            </a>
+
+            <a asp-controller="Home" asp-action="Account"
+               class="@(currentAction == "Account" ? "active" : null)">
+                Личный кабинет
+            </a>
+
+            @* Ссылка для сотрудников *@
+            <a id="admin-link" asp-controller="Home" asp-action="Admin"
+               class="@(currentAction == "Admin" ? "active" : null)"
+               style="display:none">
+                Админ-панель
+            </a>
+
+        </nav>
+    </div>
+</header>

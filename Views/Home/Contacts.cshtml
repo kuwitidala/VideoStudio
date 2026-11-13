@@ -1,0 +1,48 @@
+@{
+    ViewData["Title"] = "Контакты — VideoStudio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section class="page-head">
+    <div class="container">
+        <h1>Контакты</h1>
+        <p>Приезжайте в студию, звоните или напишите — ответим в рабочее время.</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container split">
+        <div>
+            <ul class="contact-list">
+                <li><b>Адрес</b>г. Москва, ул. Примерная, д. 10, офис 5</li>
+                <li><b>Телефон</b><a href="tel:+79000000000">+7 (900) 000-00-00</a></li>
+                <li><b>Почта</b><a href="mailto:hello@videostudio.local">hello@videostudio.local</a></li>
+                <li><b>Режим работы</b>Пн–Пт, 10:00–19:00</li>
+            </ul>
+
+            <h2>Напишите нам</h2>
+            <form class="form" id="contact-form" novalidate>
+                <div class="field">
+                    <label for="c-name">Имя</label>
+                    <input id="c-name" name="name" type="text" autocomplete="name">
+                </div>
+                <div class="field">
+                    <label for="c-email">Email</label>
+                    <input id="c-email" name="email" type="email" autocomplete="email">
+                </div>
+                <div class="field">
+                    <label for="c-message">Сообщение</label>
+                    <textarea id="c-message" name="message"></textarea>
+                </div>
+                <button class="btn btn-primary" type="submit">Отправить</button>
+                <p class="form-msg" role="status"></p>
+            </form>
+        </div>
+        <iframe class="map" title="Карта проезда" loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=37.57%2C55.74%2C37.67%2C55.77&amp;layer=mapnik&amp;marker=55.755%2C37.62"></iframe>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/contacts.js"></script>
+}

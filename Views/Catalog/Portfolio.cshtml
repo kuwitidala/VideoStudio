@@ -1,0 +1,23 @@
+@model IEnumerable<VideoStudio.Models.PortfolioItem>
+@{
+    ViewData["Title"] = "Портфолио — VideoStudio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="page-head">
+    <div class="container">
+        <h1>Портфолио</h1>
+        <p>Нажмите на работу, чтобы посмотреть подробности и видео.</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="works">
+            @await Html.PartialAsync("_WorkList", Model)
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/works.js"></script>
+}

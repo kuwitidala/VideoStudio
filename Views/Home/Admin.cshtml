@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Админ-панель — VideoStudio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<main>
+    <section class="page-head">
+        <div class="container">
+            <h1>Админ-панель</h1>
+            <p>Управление заявками, расписанием и содержимым сайта.</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="tabs" id="admin-tabs">
+                <a class="tab" href="#bookings" data-id="bookings">Заявки</a>
+                <a class="tab" href="#schedule" data-id="schedule">Расписание</a>
+                <a class="tab" href="#services" data-id="services">Услуги</a>
+                <a class="tab" href="#portfolio" data-id="portfolio">Портфолио</a>
+                <a class="tab" href="#reviews" data-id="reviews">Отзывы</a>
+                <a class="tab" href="#messages" data-id="messages">Сообщения</a>
+                <a class="tab" href="#users" data-id="users">Пользователи</a>
+            </div>
+
+            <div id="admin-panel"></div>
+        </div>
+    </section>
+
+</main>
+
+@section Scripts {
+    <script src="~/js/admin.js" asp-append-version="true"></script>
+}

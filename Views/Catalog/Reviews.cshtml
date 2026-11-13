@@ -1,0 +1,60 @@
+@model IEnumerable<VideoStudio.Models.Review>
+
+@{
+    ViewData["Title"] = "Отзывы — VideoStudio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="page-head">
+    <div class="container">
+        <h1>Отзывы</h1>
+        <p>Что говорят клиенты, которые уже работали с нами.</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="reviews">
+            @await Html.PartialAsync("_ReviewList", Model)
+        </div>
+    </div>
+</section>
+
+<section class="section section-alt">
+    <div class="container">
+        <h2>Оставить отзыв</h2>
+
+        <div id="review-form">
+            <p class="muted" data-state="loading">Загрузка…</p>
+
+            <p data-state="guest" style="display:none">Чтобы оставить отзыв, <a asp-controller="Home" asp-action="Account" asp-route-next="reviews">войдите в личный кабинет</a>.</p>
+
+            <p data-state="denied" style="display:none">Оставить отзыв можно после того, как ваша запись будет подтверждена.</p>
+
+            <div data-state="form" style="display:none">
+                <form class="form" novalidate>
+                    <div>
+                        <span class="label">Ваша оценка</span>
+                        <div class="rating-input">
+                            @for (var n = 1; n <= 5; n++)
+                            {
+                            <input type="radio" name="rating" id="rate@(n)" value="@n">
+                            <label for="rate@(n)" title="@n из 5">★</label>
+                            }
+                        </div>
+                    </div>
+                    <div class="field">
+                        <label for="review-text">Отзыв</label>
+                        <textarea id="review-text" maxlength="2000" required></textarea>
+                    </div>
+                    <button class="btn btn-primary" type="submit">Отправить на модерацию</button>
+                    <p class="form-msg" role="status"></p>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/reviews.js"></script>
+}

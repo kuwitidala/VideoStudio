@@ -1,0 +1,27 @@
+@model IEnumerable<Service>
+@{
+    var ru = CultureInfo.GetCultureInfo("ru-RU");
+    var withImage = ViewData["WithImage"] as bool? ?? false;
+}
+@if (!Model.Any())
+{
+    <div class="empty">Услуги скоро появятся.</div>
+}
+else
+{
+    foreach (var s in Model)
+    {
+        <div class="service-row">
+            <div>
+                @if (withImage)
+                {
+                    @await Html.PartialAsync("_Media", new MediaViewModel(s.ImageUrl, s.Name, "service-thumb"))
+                }
+                <h3>@s.Name</h3>
+            </div>
+            <p>@s.Description</p>
+            <span class="service-price">@s.Price.ToString("#,0.##", ru) ₽</span>
+            <a class="btn btn-sm btn-primary" asp-controller="Catalog" asp-action="Booking" asp-route-service="@s.Id">Записаться</a>
+        </div>
+    }
+}

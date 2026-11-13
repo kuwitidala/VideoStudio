@@ -1,0 +1,20 @@
+@model IEnumerable<PortfolioItem>
+@if (!Model.Any())
+{
+    <div class="empty">Работы скоро появятся.</div>
+}
+else
+{
+    foreach (var w in Model)
+    {
+        var shortText = w.Description.Length > 90 ? w.Description[..90] + "…" : w.Description;
+        <button class="work" type="button"
+                data-title="@w.Title"
+                data-description="@w.Description"
+                data-image="@w.ImageUrl"
+                data-video="@w.VideoUrl">
+            @await Html.PartialAsync("_Media", new MediaViewModel(w.ImageUrl, w.Title))
+            <div class="work-info"><h3>@w.Title</h3><p>@shortText</p></div>
+        </button>
+    }
+}

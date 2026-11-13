@@ -1,0 +1,18 @@
+@model MediaViewModel
+@{
+    // Показываем только свои (/...) и http(s) адреса — как раньше делал safeUrl() в app.js
+    var src = Model.Url ?? "";
+    var isSafe = System.Text.RegularExpressions.Regex.IsMatch(src, @"^(https?://|/)", System.Text.RegularExpressions.RegexOptions.IgnoreCase);
+    var isVideo = System.Text.RegularExpressions.Regex.IsMatch(src, @"\.(mp4|webm)$", System.Text.RegularExpressions.RegexOptions.IgnoreCase);
+}
+@if (isSafe)
+{
+    if (isVideo)
+    {
+        <video src="@src" class="@Model.CssClass" autoplay muted loop playsinline></video>
+    }
+    else
+    {
+        <img src="@src" alt="@Model.Alt" class="@Model.CssClass" loading="lazy" onerror="this.remove()">
+    }
+}

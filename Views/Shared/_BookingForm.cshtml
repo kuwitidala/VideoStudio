@@ -1,0 +1,77 @@
+@model BookingFormViewModel
+@{
+    var ru = CultureInfo.GetCultureInfo("ru-RU");
+   
+    var days = Model.Slots
+        .GroupBy(s => s.StartAt.ToLocalTime().Date)
+        .OrderBy(g => g.Key)
+        .ToList();
+    var options = new[] { "Аэросъёмка (дрон)", "Второй оператор", "Срочный монтаж", "Профессиональный звук" };
+}
+<form class="booking" novalidate>
+    <div class="step">
+        <h3><span class="step-num">1</span>Выберите услугу</h3>
+        <div class="choices">
+            @if (!Model.Services.Any())
+            {
+                <div class="empty">Услуги пока не добавлены.</div>
+            }
+            @foreach (var s in Model.Services)
+            {
+                var price = s.Price.ToString("#,0.##", ru) + " ₽";
+                <label class="choice" data-summary="@s.Name, @price">
+                    <input type="radio" name="service" value="@s.Id" checked="@(s.Id == Model.SelectedServiceId)">
+                    <strong>@s.Name</strong><span>@price</span>
+                </label>
+            }
+        </div>
+    </div>
+
+    <div class="step">
+        <h3><span class="step-num">2</span>Выберите дату и время</h3>
+        @if (!days.Any())
+        {
+            <div class="empty">Свободных дат пока нет. Загляните позже или позвоните нам.</div>
+        }
+        else
+        {
+            <div class="chips">
+                @foreach (var day in days)
+                {
+                    <button type="button" class="chip" data-day="@day.Key.ToString("yyyy-MM-dd")">@day.Key.ToString("ddd, d MMMM", ru)</button>
+                }
+            </div>
+            @foreach (var day in days)
+            {
+                var dayLabel = day.Key.ToString("ddd, d MMMM", ru);
+                <div class="chips" data-times="@day.Key.ToString("yyyy-MM-dd")" style="display:none">
+                    @foreach (var slot in day)
+                    {
+                        var time = slot.StartAt.ToLocalTime().ToString("HH:mm") + "–" + slot.EndAt.ToLocalTime().ToString("HH:mm");
+                        <button type="button" class="chip" data-slot="@slot.Id" data-summary="@dayLabel, @time">@time</button>
+                    }
+                </div>
+            }
+        }
+    </div>
+
+    <div class="step">
+        <h3><span class="step-num">3</span>Дополнительно</h3>
+        <div class="options">
+            @foreach (var name in options)
+            {
+                <label><input type="checkbox" value="@name">@name</label>
+            }
+        </div>
+        <div class="field">
+            <label for="booking-comment">Комментарий к заказу</label>
+            <textarea id="booking-comment" maxlength="400" placeholder="Место съёмки, пожелания, количество гостей"></textarea>
+        </div>
+    </div>
+
+    <div class="summary" data-summary-box>Выберите услугу, дату и время.</div>
+
+    <div data-submit style="display:none"><button class="btn btn-primary" type="submit">Записаться</button></div>
+    <div data-login><a class="btn btn-primary" asp-controller="Home" asp-action="Account" asp-route-next="booking">Войдите, чтобы записаться</a></div>
+    <p class="form-msg" data-msg role="status"></p>
+</form>

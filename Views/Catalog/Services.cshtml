@@ -1,0 +1,20 @@
+@model IEnumerable<VideoStudio.Models.Service>
+@{
+    ViewData["Title"] = "Услуги — VideoStudio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="page-head">
+    <div class="container">
+        <h1>Услуги</h1>
+        <p>Свадьбы, рекламные ролики, мероприятия. Цена указана за базовый формат, детали уточним при записи.</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="service-list">
+            @await Html.PartialAsync("_ServiceList", Model, ViewData)
+        </div>
+    </div>
+</section>

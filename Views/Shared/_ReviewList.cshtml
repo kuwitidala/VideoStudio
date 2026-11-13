@@ -1,0 +1,20 @@
+@model IEnumerable<Review>
+@{
+    var ru = CultureInfo.GetCultureInfo("ru-RU");
+}
+@if (!Model.Any())
+{
+    <div class="empty">Пока нет опубликованных отзывов. Станьте первым.</div>
+}
+else
+{
+    foreach (var r in Model)
+    {
+        var rating = Math.Clamp(r.Rating, 0, 5);
+        <article class="review">
+            <span class="stars" aria-label="Оценка @rating из 5">@(new string('★', rating))<span class="stars-off">@(new string('★', 5 - rating))</span></span>
+            <p>@r.Text</p>
+            <small>Клиент студии, @r.CreatedAt.ToLocalTime().ToString("d MMMM yyyy", ru)</small>
+        </article>
+    }
+}
